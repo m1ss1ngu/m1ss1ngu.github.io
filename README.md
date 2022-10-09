@@ -94,13 +94,13 @@
         <h1>二、联系方式 📱</h1>
         <hr style="background: #3694f9;height:2px;border:none;">
 <pre>   <!--被包围在 pre 元素中的文本通常会保留空格和换行符-->
-<code class="javascript"><font size=3 color=#000080>var WaysToContactMe = 
+<code class="javascript">
 {
         phone  : "13240148030",
         qq     : "1803571189",
         wechat : "xijiaqi0904",
         mail   : "1803571189@qq.com"
-};</font>
+}
 </code>
 </pre>
         <h1>三、竞赛&amp;活动 🏆</h1>
