@@ -127,13 +127,13 @@
                         <td align="center">Matlab</td>
                         <td align="center">●●●●●○○</td>
                         <td align="center">CET4</td>
-                        <td align="center">621</td>
+                        <td align="center">无</td>
                     </tr>
                     <tr>
                         <td align="center">Python</td>
                         <td align="center">●●●●○○○</td>
                         <td align="center">CET6</td>
-                        <td align="center">609</td>
+                        <td align="center">无</td>
                     </tr>
                     <tr>
                         <td align="center">Microsoft Office</td>
